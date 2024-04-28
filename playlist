@@ -1,0 +1,14 @@
+[
+   {
+    "channel": "002RadioTV.do",
+    "url": "https://cdn.002radio.com:3909/live/radio002live.m3u8",
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "1001Noites.br",
+    "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8",
+    "http_referrer": null,
+    "user_agent": null
+  }
+]
