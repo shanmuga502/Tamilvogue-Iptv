@@ -1,12 +1,14 @@
 [
    {
     "channel": "Star Sports 1",
+    "logo": "https://www.seekpng.com/png/small/531-5319396_star-sports-1-hindi-live.png",
     "url": "https://ardinesh-tataplay.puspas.com.np/live/tataplay-universal/star-sports-1-hd/index.ts",
     "http_referrer": null,
     "user_agent": null
   },
   {
     "channel": "IPL TAMIL",
+    "logo": "https://www.seekpng.com/png/small/531-5319396_star-sports-1-hindi-live.png",
     "url": "http://prod-sports-south.jiocinema.com/hls/live/2109712/hd_akamai_androidmob_avc_tam_ipl_s1_m1280424/master.m3u8",
     "http_referrer": null,
     "user_agent": null
