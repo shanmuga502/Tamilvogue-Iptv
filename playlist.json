@@ -20,15 +20,6 @@
     "channel": "Ten Sports",
     "url": "http://iptv12k.com:35461/vijay/123456/7126"
   },
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
   {
     "id": "3",
     "key": "14",
@@ -43,7 +34,6 @@
     "channel": "Polimer TV",
     "url": "http://103.81.77.23:12574/udp/227.2.2.33:11025"
   },
-  null,
   {
     "id": "4",
     "key": "17",
@@ -247,7 +237,6 @@
     "channel": "Adithya TV",
     "url": "http://iptv12k.com:35461/vijay/123456/976"
   },
-  null,
   {
     "id": "2",
     "key": "47",
@@ -1123,7 +1112,6 @@
     "channel": "Raj Digital Plus",
     "url": "https://itspkg.in/ttv/play.php?tv=1009&e=.m3u8"
   },
-  null,
   {
     "id": "4",
     "key": "173",
@@ -1418,7 +1406,6 @@
     "channel": "Travel XP",
     "url": "http://jiotvplus.ml/autoq.php?c=Travel_XP_Tamil&e=.m3u8"
   },
-  null,
   {
     "id": "1",
     "key": "216",
@@ -1496,8 +1483,6 @@
     "channel": "And Pictures HD",
     "url": "http://jiotvplus.ml/autoq.php?c=And_Pictures_HD&e=.m3u8"
   },
-  null,
-  null,
   {
     "id": "2",
     "key": "229",
@@ -1505,7 +1490,6 @@
     "channel": "Star Plus",
     "url": "http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8?token=test"
   },
-  null,
   {
     "id": "8",
     "key": "231",
@@ -1590,7 +1574,6 @@
     "channel": "WWE",
     "url": "https://pubads.g.doubleclick.net/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8"
   },
-  null,
   {
     "id": "3",
     "key": "244",
@@ -1598,7 +1581,6 @@
     "channel": "Tunes6",
     "url": "http://jiotvplus.ml/autoq.php?c=Tunes_6&e=.m3u8"
   },
-  null,
   {
     "id": "1",
     "key": "246",
