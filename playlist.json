@@ -34,6 +34,13 @@
     "channel": "Polimer TV",
     "url": "http://103.81.77.23:12574/udp/227.2.2.33:11025"
   },
+   {
+    "id": "2",
+    "key": "15",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/b9/Murasu-TV.png",
+    "channel": "Murasu TV",
+    "url": "https://segment.yuppcdn.net/050522/murasu/playlist.m3u8"
+  },
   {
     "id": "4",
     "key": "17",
