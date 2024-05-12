@@ -9,7 +9,7 @@
   {
     "channel": "IPL TAMIL",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4zK6bwS_6WP9TjH8_1TgRVt601DFuHvJfQJq6cyeZ-FWYQ8V3Ig_vbym3g4IEKjToiY&usqp=CAU",
-    "url": "http://prod-sports-south.jiocinema.com/hls/live/2109712/hd_akamai_androidmob_avc_tam_ipl_s1_m1280424/master.m3u8",
+    "url": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1120524/master.m3u8",
     "http_referrer": null,
     "user_agent": null
   },
